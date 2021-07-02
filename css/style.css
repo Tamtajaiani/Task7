@@ -205,6 +205,11 @@
 	align-items: center;
 	font-family: 'Roboto-medium';
 }
+.read-more:hover {
+	background-color: #FFFFFF;
+	color: #4B647E;
+	font-family: 'Roboto-regular';
+}
 .redesign {
 	display: flex;
 	justify-content: center;

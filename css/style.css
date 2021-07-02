@@ -1,0 +1,56 @@
+.header-block {
+	display: flex;
+	width: 1516px;
+	height: 43px;
+	margin: 64px 272px 266px 132px;
+	vertical-align: middle;
+}
+.header-left {
+	display: flex;
+}
+.header-right {
+	display: flex;
+}
+.web {
+	color: #3D37F1;
+	width: 77px;
+	height: 43px;
+	font-size: 32px;
+}
+.ui-exp {
+	color: #4B647E;
+	width: 112px;
+	height: 43px;
+	font-size: 32px;
+	}
+.home {
+	margin-left: 730px;
+	color: #3D37F1;
+	font-size: 20px;
+	height: 27px;
+	
+}
+.portfolio {
+	margin-left: 30px;
+	color: #3D37F1;
+	font-size: 20px;
+	height: 27px;
+}
+.about {
+	margin-left: 30px;
+	color: #3D37F1;
+	font-size: 20px;
+	height: 27px;
+}
+.blog {
+	margin-left: 30px;
+	color: #3D37F1;
+	font-size: 20px;
+	height: 27px;
+}
+.contact {
+	margin-left: 30px;
+	color: #3D37F1;
+	font-size: 20px;
+	height: 27px;
+}

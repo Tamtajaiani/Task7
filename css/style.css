@@ -141,3 +141,132 @@
 	margin-top: 20px;
 	line-height: 2;
 }
+.bottom-block {
+	width: 1169px;
+}
+.line1 {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 67px;
+	margin-bottom: 60px;
+}
+.website-ui {
+	background-image: linear-gradient(#FBBA77, #DFA871);
+	width: 370px;
+	height: 451px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 40px #C5C3F926;
+}
+.website-img {
+	width: 100px;
+	height: 100px;
+	/*margin-top: 88px;*/
+	margin: 88px 136px 55px 134px;
+}
+.service-box-title {
+	height: 30px;
+	font-size: 22px;
+	color: #FFFFFF;
+}
+.service-box-text {
+	height: 62px;
+	font-size: 16px;
+	color: #FFFFFF;
+	margin: 12.11px 21px 10.95px 21px;
+	text-align: center;
+}
+.read-more {
+	border-radius: 23px;
+	width: 131px;
+	height: 45px;
+	font-size: 15px;
+	color: #FFFFFF;
+	border: solid 2px;
+	border-color: #FFFFFF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.redesign {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 370px;
+	height: 451px;
+	background-image: linear-gradient(#41EAE3, #2293B7);
+	box-shadow: 0 40px #C5C3F926;
+}
+.redesign-img {
+	width: 100px;
+	height: 108px;
+	margin: 88px auto 46px;
+}
+.app {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-image: linear-gradient(#69529F,#463864);
+	width: 370px;
+	height: 451px;
+	box-shadow: 0 40px #C5C3F926;
+}
+.app-icon {
+	width: 100px;
+	height: 115px;
+	margin: 88px auto 40px;
+}
+.line2 {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 60px;
+}
+.mob-app {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 370px;
+	height: 451px;
+	background-image: linear-gradient(#4386D2, #0962C5);
+	box-shadow: 0 40px #C5C3F926;
+}
+.mobile-app {
+	width: 100px;
+	height: 106px;
+	margin: 88px auto 64px;
+}
+.web-app {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 370px;
+	height: 451px;
+	background-image: linear-gradient(#A5A2F6, #564FD6);
+	box-shadow: 0 40px #C5C3F926;
+}
+.web-app-icon {
+	width: 100px;
+	height: 90px;
+	margin: 92px auto 60px;
+}
+.web-elements {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 370px;
+	height: 451px;
+	background-image: linear-gradient(#FF8088, #984141);
+	box-shadow: 0 40px #C5C3F926;
+}
+.web-elements-icon {
+	width: 100px;
+	height: 100px;
+	margin: 87px auto 56px;
+}
